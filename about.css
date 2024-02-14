@@ -1,0 +1,29 @@
+
+.creator-card {
+    position: relative;
+    background-color: #114e3f;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.562);
+    top: 72px;
+}
+.creator-card p{
+    color: #f2f2f2;
+}
+.card-header img{
+    position: relative;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.about-cont{
+    position: relative;
+    top: -25px;
+}
+.meet{
+    position: relative;
+    top: 50px;
+}
+.cont-info{
+    transform: scale(1.05);
+}
